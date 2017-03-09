@@ -12,8 +12,8 @@ A custom sensor will be updated with a value from 0-4 (so Domoticz can create a 
 - 0 = Ingen spredning / No proliferation
 - 1 = Beskjeden spredning / Modest proliferation
 - 2 = Moderat spredning / Moderate proliferation
-- 3 = Kraftig spredning / powerful proliferation
-- 4 = Ekstrem spredning / extreme proliferation
+- 3 = Kraftig spredning / Powerful proliferation
+- 4 = Ekstrem spredning / Extreme proliferation
 
 **Avaiable locations**
 - Østlandet med Oslo
