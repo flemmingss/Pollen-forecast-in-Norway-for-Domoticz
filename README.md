@@ -2,8 +2,10 @@ This is a Powershell script for updating virtual "dummy" devices in Domoticz hom
 This can be useful if you are allergic to pollen.
 Forecast is for today, and tomorrow.
 
+![alt tag](images/device_domoticz.png)
+
 To get this script to work you also need Html Agility Pack that can be downloaded here: https://htmlagilitypack.codeplex.com/
-The source website is updating every midnight (Central European Time/Central European Summer Time). I therefore recommend that this script runs just after midnight once a day.
+The source website is updating every midnight (Central European Time/Central European Summer Time). I therefore recommend that this script runs just after midnight once a day. 
 This can be done with Windows Task Scheduler. The script don't have to be on the same server as Domoticz.
 
 A custom sensor will be updated with a value from 0-4 (so Domoticz can create a graph)
