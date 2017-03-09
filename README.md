@@ -4,7 +4,7 @@ Forecast is for today, and tomorrow.
 
 To get this script to work you also need Html Agility Pack that can be downloaded here: https://htmlagilitypack.codeplex.com/
 The source website is updating every midnight (Central European Time/Central European Summer Time). I therefore recommend that this script runs just after midnight once a day.
-This can be done with Windows Task Scheduler. The script don't have to be at the same server as Domoticz.
+This can be done with Windows Task Scheduler. The script don't have to be on the same server as Domoticz.
 
 A custom sensor will be updated with a value from 0-4 (so Domoticz can create a graph)
 
