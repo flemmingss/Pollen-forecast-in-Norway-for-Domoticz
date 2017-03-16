@@ -1,3 +1,6 @@
+# Pollen forecast in Norway for Domoticz
+A PowerShell script to integrate pollen forcast from pollenvarslingen.no in Domoticz
+
 This is a Powershell script for updating virtual "dummy" devices in Domoticz home automation system (http://domoticz.com/) with pollen forcast info from pollenvarslingen.no.
 This can be useful if you are allergic to pollen.
 Forecast is for today, and tomorrow.
